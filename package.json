@@ -1,8 +1,11 @@
 {
   "name": "cloud-run-puppeteer",
   "version": "1.0.0",
-  "description": "",
+  "description": "Sample to run puppeteer on cloud run",
   "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
   "keywords": [
     "GCP",
     "Cloud Run",
