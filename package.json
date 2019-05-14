@@ -1,0 +1,13 @@
+{
+  "name": "cloud-run-puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "keywords": [
+    "GCP",
+    "Cloud Run",
+    "puppeteer"
+  ],
+  "author": "8398a7 <8398a7@gmail.com>",
+  "license": "MIT"
+}
