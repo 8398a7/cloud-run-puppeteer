@@ -9,5 +9,9 @@
     "puppeteer"
   ],
   "author": "8398a7 <8398a7@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "puppeteer": "^1.16.0"
+  }
 }
